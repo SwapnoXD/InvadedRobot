@@ -5,7 +5,7 @@ SESSION = "BQBziKbovEvXPxrxyVhvadlQoCvJrYTbrlrJLGsqocw_9OgblbhRzV6saEkM3StfCLWLh
 # APP_ID & APP_HASH For Bot
 APP_ID = 25748479
 APP_HASH = "a2605f5312dcc313c73eb484ec25e84a"
-BOT_TOKEN = "5459099380:AAGd6YsZDwkkeHaLZ7J6xY3xVcHZKbVsqQQ"
+BOT_TOKEN = "6125408031:AAH_JtVXIXjHXw1rRCMPJfELcCwHhPtStOQ"
 LOG_GROUP_ID = -1001847722432
 USERNAME = "InvadedRobot" 
 BOT_ID = 5459099380
@@ -16,6 +16,6 @@ GROUP_URL = "t.me/InvadedSupport"
 UPDATE_CHANNEL_URL = "t.me/invadedupdates"
 SYSTEM_CHANNEL_URL = "t.me/Invaded_System"
 LOG_CHANNEL_URL = "t.me/InvadedLogs"
-DB_URL = "mongodb+srv://Bave999:Bave999@cluster0.1aheaa1.mongodb.net/?retryWrites=true&w=majority"
+DB_URL = "mongodb+srv://Lovely:LovelyMusic@lovely.zmqfspr.mongodb.net/?retryWrites=true&w=majority"
 DEVS = [5696053228, 1989750989, 1625505310]
 INV_CORE_1 = -1001847722432
