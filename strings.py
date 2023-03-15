@@ -5,7 +5,7 @@ SCAN_TEXT = """
 **➛ Reason** : `{}`
 **➛ Crime Coefficient** : `Over 300`
 
-: : **Scan Processed Time And Date**: `{}`
+: : **Scan  Processed Time  And Date**: `{}`
 """
 
 HELP = """
