@@ -17,5 +17,5 @@ UPDATE_CHANNEL_URL = "https://t.me/LovelyMusicLogsm"
 SYSTEM_CHANNEL_URL = "https://t.me/LovelyMusicLogsm"
 LOG_CHANNEL_URL = "https://t.me/LovelyMusicLogsm"
 DB_URL = "mongodb+srv://Lovely:LovelyMusic@lovely.zmqfspr.mongodb.net/?retryWrites=true&w=majority"
-DEVS = [5696053228, 1989750989, 1625505310]
+DEVS = [5773881131, 1989750989, 1626505310]
 INV_CORE_1 = -1001847722432
